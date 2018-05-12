@@ -1,0 +1,29 @@
+_repo: The-Dare-Boys-with-General-Greene_44631
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mencl, Rudolf
+    gutenberg_agent_id: '31883'
+    url: http://www.gutenberg.org/2009/agents/31883
+covers:
+- cover_type: archival
+  image_path: 44631-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cox, Stephen Angus
+    gutenberg_agent_id: '2983'
+    url: http://www.gutenberg.org/2009/agents/2983
+description: ''
+gutenberg_issued: '2014-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+title: The Dare Boys with General Greene
+url: http://www.gutenberg.org/ebooks/44631
